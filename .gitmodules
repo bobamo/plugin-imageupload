@@ -1,9 +1,0 @@
-[submodule "less"]
-	path = less
-	url = https://github.com/bobamo/plugin-less
-[submodule "visualize"]
-	path = visualize
-	url = https://github.com/bobamo/plugin-visualize
-[submodule "passport"]
-	path = passport
-	url = https://github.com/bobamo/plugin-passport
