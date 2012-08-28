@@ -7,6 +7,3 @@
 [submodule "passport"]
 	path = passport
 	url = https://github.com/bobamo/plugin-passport
-[submodule "imageupload"]
-	path = imageupload
-	url = https://github.com/bobamo/plugin-imageupload
